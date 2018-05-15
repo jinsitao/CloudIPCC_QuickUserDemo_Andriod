@@ -1,6 +1,5 @@
 mkdir ..\app\libs\armeabi
 
-
 xcopy eSDK_EC_API_V6.1.RC1_android\libs\HME-Audio.jar ..\app\libs
 xcopy eSDK_EC_API_V6.1.RC1_android\libs\HME-Video.jar ..\app\libs
 xcopy eSDK_EC_API_V6.1.RC1_android\libs\KMC.jar ..\app\libs
@@ -8,7 +7,6 @@ xcopy eSDK_EC_API_V6.1.RC1_android\libs\TupCall.jar ..\app\libs
 xcopy eSDK_EC_API_V6.1.RC1_android\libs\TupCmptService.jar ..\app\libs
 xcopy eSDK_EC_API_V6.1.RC1_android\libs\TupConf.jar ..\app\libs
 xcopy eSDK_EC_API_V6.1.RC1_android\libs\TupRsa.jar ..\app\libs
-xcopy eSDK_EC_API_V6.1.RC1_android\libs\TupService.jar ..\app\libs
 xcopy eSDK_EC_API_V6.1.RC1_android\libs\TupSocket.jar ..\app\libs
 
 xcopy eSDK_EC_API_V6.1.RC1_android\libs\armeabi\lib_iomxcodec_40.so ..\app\libs\armeabi
@@ -50,5 +48,4 @@ xcopy eSDK_EC_API_V6.1.RC1_android\libs\armeabi\libtup_support.so ..\app\libs\ar
 xcopy eSDK_EC_API_V6.1.RC1_android\libs\armeabi\libtup_xml.so ..\app\libs\armeabi
 xcopy eSDK_EC_API_V6.1.RC1_android\libs\armeabi\libTupConf.so ..\app\libs\armeabi
 xcopy eSDK_EC_API_V6.1.RC1_android\libs\armeabi\libuspsdk.so ..\app\libs\armeabi
-
-
+xcopy eSDK_EC_API_V6.1.RC1_android\libs\armeabi\libtup_zip.so ..\app\libs\armeabi
